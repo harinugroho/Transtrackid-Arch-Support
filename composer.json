@@ -4,7 +4,6 @@
     "type": "library",
     "require": {
         "php": "^8.0.2",
-        "laravel/framework": "^9.0"
     },
     "license": "MIT",
     "autoload": {
